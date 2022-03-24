@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line MD041 -->
-![Mimi Hearing Technologies](https://github.com/MimiHearingTechnologies/.github/blob/main/images/banner.png)
+![Mimi Hearing Technologies](/images/banner.png)
 
 ## Hey, we are Mimi! 👋
 
